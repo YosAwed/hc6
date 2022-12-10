@@ -1,4 +1,4 @@
-# hc6
+# hc6 for X68000
 hc6 6bit encoder decorder for X68000
 
 
